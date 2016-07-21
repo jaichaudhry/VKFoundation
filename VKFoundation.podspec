@@ -5,7 +5,7 @@ Pod::Spec.new do |s|
   s.homepage         = "https://github.com/viki-org/VKFoundation"
   s.license          = 'Apache License, Version 2.0'
   s.author           = { "Keisuke Matsuo" => "matzo@viki.com" }
-  s.source           = { :git => "https://github.com/viki-org/VKFoundation.git", :tag => s.version.to_s }
+  s.source           = { :git => "https://github.com/jaichaudhry/VKFoundation.git", :tag => s.version.to_s }
 
   s.platform     = :ios, '5.0'
   s.ios.deployment_target = '5.0'
